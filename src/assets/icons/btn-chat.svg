@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    btn-chat
+  </title>
+  <defs>
+    <path d="M17.348 12.952v-11H2.652V14.8L4.5 12.952h12.848zm0-12.804c.499 0 .924.176 1.276.528.352.352.528.777.528 1.276v11c0 .499-.176.931-.528 1.298-.352.367-.777.55-1.276.55H4.5L.848 18.452v-16.5c0-.499.176-.924.528-1.276A1.738 1.738 0 0 1 2.652.148h14.696z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(6 7)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#68686E" xlink:href="#a"/>
+      <g mask="url(#b)" fill="#F56B87">
+        <path d="M-6-7h32v32H-6z"/>
+      </g>
+    </g>
+  </g>
+</svg>

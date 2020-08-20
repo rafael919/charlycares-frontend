@@ -1,0 +1,9 @@
+<svg width="66" height="66" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(2 2)" fill="none" fill-rule="evenodd">
+    <circle stroke="#C7C7C9" stroke-width="4" cx="31" cy="31" r="31"/>
+    <circle fill="#F56B87" cx="31" cy="31" r="27"/>
+    <text font-family=".AppleSystemUIFont" font-size="15.84" fill="#FFF">
+      <tspan x="14.658" y="35">Stop</tspan>
+    </text>
+  </g>
+</svg>

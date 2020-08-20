@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    icn-feature-baby
+  </title>
+  <defs>
+    <path d="M10 12.6a1.4 1.4 0 0 0 0 2.8h12a1.4 1.4 0 0 0 0-2.8H10zm12.262-1.187a2.6 2.6 0 0 1 .338 5.117V24a4.6 4.6 0 0 1-4.6 4.6h-4A4.6 4.6 0 0 1 9.4 24v-7.47a2.601 2.601 0 0 1 .338-5.117L13.4 7.751V6a2.6 2.6 0 0 1 5.2 0v1.751l3.662 3.662zm-1.71-.013L17.4 8.249V6a1.4 1.4 0 0 0-2.8 0v2.249L11.449 11.4h9.102zm.666 13.7H18.5a.6.6 0 0 1 0-1.2h2.9v-1.8h-2.9a.6.6 0 0 1 0-1.2h2.9v-1.8h-2.9a.6.6 0 0 1 0-1.2h2.9v-1.3H10.6V24a3.4 3.4 0 0 0 3.4 3.4h4c1.493 0 2.76-.962 3.218-2.3z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#303036" fill-rule="nonzero" xlink:href="#a"/>
+      <g mask="url(#b)" fill="#303036">
+        <path d="M0 0h32v32H0z"/>
+      </g>
+    </g>
+  </g>
+</svg>

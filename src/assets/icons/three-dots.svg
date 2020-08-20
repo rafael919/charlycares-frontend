@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4px" height="20px" viewBox="0 0 4 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>dots</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-/-more" transform="translate(-8.000000, -35.000000)" fill="#97979A">
+            <path d="M10,39 C8.8954305,39 8,38.1045695 8,37 C8,35.8954305 8.8954305,35 10,35 C11.1045695,35 12,35.8954305 12,37 C12,38.1045695 11.1045695,39 10,39 Z M10,47 C8.8954305,47 8,46.1045695 8,45 C8,43.8954305 8.8954305,43 10,43 C11.1045695,43 12,43.8954305 12,45 C12,46.1045695 11.1045695,47 10,47 Z M10,55 C8.8954305,55 8,54.1045695 8,53 C8,51.8954305 8.8954305,51 10,51 C11.1045695,51 12,51.8954305 12,53 C12,54.1045695 11.1045695,55 10,55 Z" id="dots"></path>
+        </g>
+    </g>
+</svg>

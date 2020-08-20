@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons / 32x32 / trash</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-/-more_expanded-contacts" transform="translate(-212.000000, -35.000000)" fill="#FFFFFF">
+            <g id="Group-6" transform="translate(34.000000, 0.000000)">
+                <g id="close" transform="translate(170.000000, 0.000000)">
+                    <g id="Icons-/-32x32-/-cancel" transform="translate(2.000000, 29.000000)">
+                        <path d="M16,6 C21.5228475,6 26,10.4771525 26,16 C26,21.5228475 21.5228475,26 16,26 C10.4771525,26 6,21.5228475 6,16 C6,10.4771525 10.4771525,6 16,6 Z M17.1193759,15.531487 L20.6659583,11.9849045 L19.5141477,10.8330938 L15.9675652,14.3796763 L12.5701381,10.9822492 L11.4266139,12.1257734 L14.824041,15.5232005 L11.2940313,19.0532102 L12.445842,20.2050208 L15.9758516,16.6750112 L19.3898516,20.0890111 L20.5333758,18.9454869 L17.1193759,15.531487 Z" id="icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomRow Should render component without custom props 1`] = `<GridRow />`;
+
+exports[`CustomRow Should render styled component 1`] = `
+<CRow
+  className="sc-bdVaJa dLnFPs"
+/>
+`;

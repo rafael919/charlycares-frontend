@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    icn-feature-night
+  </title>
+  <defs>
+    <path d="M16 25.4a9.4 9.4 0 0 0 1.681-18.65A8.1 8.1 0 0 1 6.75 17.682 9.404 9.404 0 0 0 16 25.4zm-9.628-9.37a6.9 6.9 0 0 0 9.658-9.658.6.6 0 0 1 .51-.958C22.164 5.696 26.6 10.347 26.6 16c0 5.854-4.746 10.6-10.6 10.6-5.653 0-10.304-4.436-10.586-10.06a.6.6 0 0 1 .958-.51z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g>
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#97979A" fill-rule="nonzero" xlink:href="#a"/>
+      <g mask="url(#b)" fill="#97979A">
+        <path d="M0 0h32v32H0z"/>
+      </g>
+    </g>
+  </g>
+</svg>

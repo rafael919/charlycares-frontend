@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,26.65 C10.1181674,26.65 5.35,21.8818326 5.35,16 C5.35,10.1181674 10.1181674,5.35 16,5.35 C21.8818326,5.35 26.65,10.1181674 26.65,16 C26.65,21.8818326 21.8818326,26.65 16,26.65 Z M16,25.35 C21.1638624,25.35 25.35,21.1638624 25.35,16 C25.35,10.8361376 21.1638624,6.65 16,6.65 C10.8361376,6.65 6.65,10.8361376 6.65,16 C6.65,21.1638624 10.8361376,25.35 16,25.35 Z M15.3333984,8.64111328 C15.3333984,8.28212819 15.6244134,7.99111328 15.9833984,7.99111328 C16.3423835,7.99111328 16.6333984,8.28212819 16.6333984,8.64111328 L16.6333984,16.0500488 C16.6333984,16.3085884 16.4801761,16.5425472 16.2431834,16.6458775 L11.4629099,18.730106 C11.1338429,18.8735813 10.7507716,18.7231294 10.6072963,18.3940623 C10.4638211,18.0649952 10.614273,17.681924 10.9433401,17.5384487 L15.3333984,15.6243563 L15.3333984,8.64111328 Z" id="path-1"></path>
+    </defs>
+    <g id="Login-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="activatie-family-step-12-new" transform="translate(-20.000000, -244.000000)">
+            <g id="Group-4" transform="translate(15.000000, 134.000000)">
+                <g id="Group-6" transform="translate(0.000000, 96.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 9.000000)">
+                        <g id="Icons-/-32x32-/-last-minute">
+                            <g id="Group-6">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#F56B87" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="Colors/cc-pink" mask="url(#mask-2)" fill="#F56B87">
+                                    <rect id="Rectangle-5" x="0" y="0" width="32" height="32"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>2142F4DA-1FFF-49A3-81FD-5B26C6ED9D3A</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cc-assets" transform="translate(-164.000000, -1224.000000)">
+            <g id="Calendar" transform="translate(34.000000, 1173.000000)">
+                <g id="Calendar-status" transform="translate(0.000000, 24.000000)">
+                    <g id="Status/pending-acceptance-req" transform="translate(132.000000, 29.000000)">
+                        <g id="white-oval" transform="translate(-2.000000, -2.000000)" fill="#FFFFFF">
+                            <circle cx="8" cy="8" r="8"></circle>
+                        </g>
+                        <circle id="Oval" stroke="#FFBA59" stroke-width="3" fill="#FFBA59" cx="6" cy="6" r="3.5"></circle>
+                    </g>
+                    <g id="slices" transform="translate(2.000000, 27.000000)"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

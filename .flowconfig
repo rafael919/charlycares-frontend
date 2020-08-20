@@ -1,0 +1,20 @@
+[ignore]
+<PROJECT_ROOT>/node_modules/cypress
+<PROJECT_ROOT>/node_modules/findup
+<PROJECT_ROOT>/node_modules/config-chain
+<PROJECT_ROOT>/src/translations
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+module.name_mapper='^Components' ->'<PROJECT_ROOT>/src/components'
+module.name_mapper='^Utils' ->'<PROJECT_ROOT>/src/utils'
+module.name_mapper='^Assets' ->'<PROJECT_ROOT>/src/assets'
+module.system.node.resolve_dirname=node_modules
+module.system.node.resolve_dirname=src
+module.system.node.resolve_dirname=<PROJECT_ROOT>/src/translations
+[strict]

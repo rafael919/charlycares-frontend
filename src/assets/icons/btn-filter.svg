@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    btn-filter
+  </title>
+  <defs>
+    <path d="M19.66 1.75H2.366c-.044 0-.09.03-.105.065-.019.047-.01.091.028.127l6.661 6.662c.14.14.22.331.22.53v7.289l3.233 2.952.456-10.274a.75.75 0 0 1 .219-.497l6.676-6.676c.022-.02.031-.063.015-.107a.125.125 0 0 0-.107-.071zM7.67 9.445L1.24 3.017a1.603 1.603 0 0 1-.36-1.79A1.625 1.625 0 0 1 2.364.25h17.296c.647 0 1.23.39 1.485.978.259.622.121 1.332-.347 1.775l-6.455 6.455-.514 11.585a.75.75 0 0 1-1.255.52l-4.662-4.255a.75.75 0 0 1-.244-.554v-7.31z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4.5 5)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#F56B87" fill-rule="nonzero" xlink:href="#a"/>
+      <g mask="url(#b)" fill="#F56B87">
+        <path d="M-4.5-5h32v32h-32z"/>
+      </g>
+    </g>
+  </g>
+</svg>

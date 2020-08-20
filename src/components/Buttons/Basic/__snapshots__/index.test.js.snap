@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomButon Should render component without custom props 1`] = `
+<Button
+  as="button"
+/>
+`;
+
+exports[`CustomButon Should render styled component 1`] = `
+<CButton
+  className="sc-bdVaJa lhZWpq"
+/>
+`;

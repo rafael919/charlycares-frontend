@@ -1,0 +1,29 @@
+{
+    "presets": [
+        "react-app"
+      ],
+    "plugins": ["react-hot-loader/babel",
+        "syntax-dynamic-import", 
+        ["transform-imports", {
+        "lodash": {
+            "transform": "lodash/${member}",
+            "preventFullImport": true
+        }
+    }],
+    ["babel-plugin-styled-components", {
+        "minify": true
+    }],
+    ["react-intl", {
+        "messagesDir": "./src/translations/"
+    }], 
+    "transform-semantic-ui-react-imports",
+    ["module-resolver", {
+        "root": ["./"],
+        "alias": {
+          "Components": "./src/components",
+          "Utils": "./src/utils",
+          "Assets": "./src/assets"
+        }
+      }]
+]
+}

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomColumn Should render component without custom props 1`] = `<GridColumn />`;
+
+exports[`CustomColumn Should render styled component 1`] = `
+<CColumn
+  className="sc-bdVaJa dLnFPs"
+/>
+`;

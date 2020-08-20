@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="13.6363636" height="13.6363636" rx="6.81818182"></rect>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Family-booking-desktop-timer-full" transform="translate(-392.000000, -841.000000)">
+            <g id="btn/calculate-button-minus" transform="translate(389.000000, 838.000000)">
+                <g id="button" stroke-width="1" transform="translate(3.181818, 3.181818)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D9D9D9" xlink:href="#path-1"></use>
+                    <g id="Colors/cc-pink" mask="url(#mask-2)" fill="#F56B87">
+                        <g transform="translate(-7.000000, -7.000000)" id="Rectangle-5">
+                            <rect x="0" y="0" width="28" height="28"></rect>
+                        </g>
+                    </g>
+                </g>
+                <polygon id="+" fill="#FFFFFF" points="13.7553268 9.54545455 13.7553268 10.6069044 6.36363636 10.6069044 6.36363636 9.54545455"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

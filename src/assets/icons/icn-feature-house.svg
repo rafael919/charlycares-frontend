@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    icn-feature-house
+  </title>
+  <defs>
+    <path d="M4.1 9.19v10.72c0 .281.191.49.4.49h3.4V14a.6.6 0 0 1 .6-.6h6a.6.6 0 0 1 .6.6v6.4h3.4c.209 0 .4-.209.4-.49V9.255l-7.433-7.409L4.1 9.19zm-1.2 1.196l-.976.974a.6.6 0 1 1-.848-.85L11.044.575a.6.6 0 0 1 .847 0l7.977 7.95c.039.031.074.067.105.106l1.95 1.944a.6.6 0 0 1-.847.85l-.976-.973v9.457c0 .923-.704 1.691-1.6 1.691h-4a.6.6 0 0 1-.6-.6v-6.4H9.1V21a.6.6 0 0 1-.6.6h-4c-.896 0-1.6-.768-1.6-1.69v-9.524z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4.5 5)">
+      <mask id="b" fill="#fff">
+        <use xlink:href="#a"/>
+      </mask>
+      <use fill="#979797" fill-rule="nonzero" xlink:href="#a"/>
+      <g mask="url(#b)" fill="#303036">
+        <path d="M-4.5-5h32v32h-32z"/>
+      </g>
+    </g>
+  </g>
+</svg>

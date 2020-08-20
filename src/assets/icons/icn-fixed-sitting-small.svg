@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>EB9A9D3B-A1A5-42B4-9791-5E190B006388</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M4.71428571,11.7857143 L4.71428571,14.1428571 L0.785714286,11 L4.71428571,7.85714286 L4.71428571,10.2142857 L11,10.2142857 C12.7357521,10.2142857 14.1428571,8.80718064 14.1428571,7.07142857 C14.1428571,6.68477806 14.0730358,6.31443521 13.9453136,5.97232055 L15.2146039,4.95688831 C15.534297,5.59284026 15.7142857,6.31111511 15.7142857,7.07142857 C15.7142857,9.67505668 13.6036281,11.7857143 11,11.7857143 L4.71428571,11.7857143 Z M0.499681819,9.18596883 C0.179988703,8.55001688 1.01893997e-16,7.83174204 0,7.07142857 C-3.48927236e-16,4.46780047 2.11065761,2.35714286 4.71428571,2.35714286 L11,2.35714286 L11,0 L14.9285714,3.14285714 L11,6.28571429 L11,3.92857143 L4.71428571,3.92857143 C2.97853364,3.92857143 1.57142857,5.3356765 1.57142857,7.07142857 C1.57142857,7.45807908 1.64124993,7.82842193 1.76897212,8.17053659 L0.499681819,9.18596883 Z" id="path-1"></path>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cc-assets" transform="translate(-691.000000, -633.000000)">
+            <g id="Icons-general" transform="translate(30.000000, 453.000000)">
+                <g id="Icons/event-fixed" transform="translate(661.000000, 180.000000)">
+                    <g id="color" transform="translate(3.142857, 3.928571)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#F56B87" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colors/cc-grey-4" mask="url(#mask-2)" fill="#97979A">
+                            <g transform="translate(-4.000000, -5.000000)" id="Rectangle-5">
+                                <rect x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="slices" transform="translate(0.000000, 34.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
